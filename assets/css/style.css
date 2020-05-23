@@ -49,7 +49,7 @@ a {
 p {
     font-size: 16px;
 }
-
+/* start of Hero Style  */
 .hero {
     height: 800px;
     width: 100%;
@@ -58,6 +58,7 @@ p {
     background-size: cover;
     background-position: center;
 }
+/* end  of Hero Style  */
 
 .float-left {
     float: left;
