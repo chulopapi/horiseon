@@ -36,5 +36,6 @@ The Following is the list of the changes implemented to the code:
 6. You can go directly to the privacy policy section by just clicking on the footer section:
     <a href="privacy-policy.html">Read Our Privacy Policy</a><br/> 
 7. Added a secondary css file that would include the hero form for the policy privacy landing page.  The file name is secondary-styles.css.
-
+8. Verification that the website loads properly and display the content correctly.
+9. Verification that the website does not contains any errors.
 
